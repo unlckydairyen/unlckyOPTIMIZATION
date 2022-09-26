@@ -1,0 +1,44 @@
+# LCKYPROTOTYPE
+
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 612 559.55">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-width: 3px;
+      }
+
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3 {
+        letter-spacing: .05em;
+      }
+
+      .cls-4 {
+        fill: #4274b9;
+      }
+
+      .cls-5 {
+        fill: #fff;
+        font-family: DINAlternate-Bold, 'DIN Alternate';
+        font-size: 58.55px;
+      }
+
+      .cls-6 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-2 {
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <rect class="cls-4" width="612" height="559.55"/>
+  <path class="cls-1" d="M196.99,108.56s146.65-10.32,145.48,99.69,32.94,113.48,55.29,123.9-31.76,41.69-31.76,41.69c0,0-1.37,18.75,7.69,31.72,8.91,12.75-14.97,27.34-14.75,27.33,0,0,12.05,7.57,.28,27.25s-16.88,15.43-16.88,15.43c0,0,14.24,47.64-36.35,40.69s-174.12-57.9-182.35-71.79"/>
+  <path class="cls-2" d="M428.39,98.24c56.17,29.6-38.61,40.65-174.7,32.41-96.31-5.84-174.7-14.51-174.7-32.41s78.22-32.41,174.7-32.41,158.87,24.06,174.7,32.41Z"/>
+  <text class="cls-5" transform="translate(384.66 516.96)"><tspan class="cls-3" x="0" y="0">unlck</tspan><tspan class="cls-6" x="149" y="0">y</tspan><tspan class="cls-3" x="172.54" y="0">.</tspan></text>
+</svg>
